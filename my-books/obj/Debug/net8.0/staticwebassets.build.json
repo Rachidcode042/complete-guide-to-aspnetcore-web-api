@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cSIBaujOsEWInqAkVTlGhB9wNi5cEwWsyQ+R3dwudL8=",
+  "Source": "my-books",
+  "BasePath": "_content/my-books",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
